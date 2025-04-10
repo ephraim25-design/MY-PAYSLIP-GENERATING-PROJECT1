@@ -1,4 +1,4 @@
-🧾 Payslip Generator Project
+# 🧾 Payslip Generator Project
 * A Python-based application that automates the generation and emailing of employee payslips in PDF format. Designed to save time and reduce manual effort in payroll processes, this tool is perfect for businesses looking to streamline their payroll system.
 
 ✨ Features
